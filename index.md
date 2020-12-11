@@ -1,34 +1,23 @@
 ## Welcome to my Projects Page
 
+###
 
-
-
-
-
-
-
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+#### Pinhouse
 ```markdown
-Syntax highlighted code block
+Pinhouse is an employee management application that stores employees personal information and their schedule, along with a customers name and purchase date. This application also allows the use of printing the employee schedule and customer record.
+```
 
-# Header 1
-## Header 2
-### Header 3
+#### Pinhouse
+```markdown
+Pinhouse is an employee management application that stores employees personal information and their schedule, along with a customers name and purchase date. This application also allows the use of printing the employee schedule and customer record.
+```
 
-- Bulleted
-- List
+#### Pinhouse
+```markdown
+Pinhouse is an employee management application that stores employees personal information and their schedule, along with a customers name and purchase date. This application also allows the use of printing the employee schedule and customer record.
+```
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#### Pinhouse
+```markdown
+Pinhouse is an employee management application that stores employees personal information and their schedule, along with a customers name and purchase date. This application also allows the use of printing the employee schedule and customer record.
 ```
