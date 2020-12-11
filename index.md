@@ -17,7 +17,9 @@ the employee schedule and customer record.
 ### [OldNewRPG](https://github.com/aarongarnerm/OldNewRPG)
 ```markdown
 OldNewRPG is the core functions for a
-classic-style rpg game.
+classic-style rpg game. The core functions are versatile
+and can be used anywhere from console applications, to a full
+GUI.
 ```
 
 ### [Punghouse](https://github.com/aarongarnerm/PungHouse)
