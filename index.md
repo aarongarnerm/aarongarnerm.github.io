@@ -3,37 +3,37 @@
 ###
 
 #### Pinhouse
+[Pinhouse](https://github.com/aarongarnerm/Pinhouse)
 ```markdown
-Pinhouse is an employee management application 
-that stores employees personal information and 
-their schedule, along with a customers name and purchase date.
+Pinhouse is an employee management application
+that was created for a coding competition in high school.
+Pinhouse stores employees personal information and 
+their schedule, along with a customer record for their
+name and purchase date.
 This application also allows the use of printing 
 the employee schedule and customer record.
 ```
 
-#### Pinhouse
+
+#### OldNewRPG
+[OldNewRPG](https://github.com/aarongarnerm/OldNewRPG)
 ```markdown
-Pinhouse is an employee management application 
-that stores employees personal information and 
-their schedule, along with a customers name and purchase date.
-This application also allows the use of printing 
-the employee schedule and customer record.
+OldNewRPG is the core functions for a
+classic-style rpg game.
 ```
 
-#### Pinhouse
+#### Punghouse
+[Punghouse](https://github.com/aarongarnerm/PungHouse)
 ```markdown
-Pinhouse is an employee management application 
-that stores employees personal information and 
-their schedule, along with a customers name and purchase date.
-This application also allows the use of printing 
-the employee schedule and customer record.
+Punghouse is an updated GUI version of the 
+project Pinhouse. I choose to update the GUI 
+to make it more lightweight and user friendly.
 ```
 
-#### Pinhouse
+#### Cash Widget
+[Cash Widget](https://github.com/aarongarnerm/Cash-Widget)
 ```markdown
-Pinhouse is an employee management application 
-that stores employees personal information and 
-their schedule, along with a customers name and purchase date.
-This application also allows the use of printing 
-the employee schedule and customer record.
+Cash Widget is an expense manager application 
+that stores transaction records critiqued
+to categories and dates.
 ```
