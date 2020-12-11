@@ -1,6 +1,6 @@
 ## Welcome to my Projects Page
 
-###
+### -----------------------------------------------------------
 
 ### [Pinhouse](https://github.com/aarongarnerm/Pinhouse)
 ```markdown
