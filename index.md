@@ -8,26 +8,13 @@
 
 
 ### [OldNewRPG](https://github.com/aarongarnerm/OldNewRPG)
-```markdown
-OldNewRPG is the core functions for a classic-style rpg game.
-The core functions are versatile and can be used anywhere 
-from console applications, to a full GUI.
-```
+
+> OldNewRPG is the core functions for a classic-style rpg game. The core functions are versatile and can be used anywhere from console applications, to a full GUI.
 
 ### [Punghouse](https://github.com/aarongarnerm/PungHouse)
-```markdown
-Punghouse is an updated GUI version of the project Pinhouse.
-I choose to update the GUI to make it more lightweight and user friendly.
-There is no functionality on the application, this is strictly just a GUI.
-```
+
+> Punghouse is an updated GUI version of the project Pinhouse. I choose to update the GUI to make it more lightweight and user friendly. There is no functionality on the application, this is strictly just a GUI.
 
 ### [Cash Widget](https://github.com/aarongarnerm/Cash-Widget)
-```markdown
-Cash Widget is an expense manager application 
-that stores transaction records for the current user
-that is logged into the computer. It uses SQLite
-to store the data. You can serach through records within
-a range of dates, or just show all records. You have the ability
-to categorize your transactions and specify what payment method
-you used to make the transaction.
-```
+
+> Cash Widget is an expense manager application that stores transaction records for the current user that is logged into the computer. It uses SQLite to store the data. You can serach through records within a range of dates, or just show all records. You have the ability to categorize your transactions and specify what payment method you used to make the transaction.
