@@ -30,6 +30,10 @@ to make it more lightweight and user friendly.
 ### [Cash Widget](https://github.com/aarongarnerm/Cash-Widget)
 ```markdown
 Cash Widget is an expense manager application 
-that stores transaction records critiqued
-to categories and dates.
+that stores transaction records for the current user
+that is logged into the computer. It uses SQLite
+to store the data. You can serach through records within
+a range of dates, or just show all records. You have the ability
+to categorize your transactions and specify what payment method
+you used to make the transaction.
 ```
