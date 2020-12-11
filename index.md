@@ -3,15 +3,8 @@
 # ________________________________________________________________________________________________________________________________________________________________________
 
 ### [Pinhouse](https://github.com/aarongarnerm/Pinhouse)
-```markdown
-Pinhouse is an employee management application
-that was created for a coding competition in high school.
-Pinhouse stores employees personal information and 
-their schedule, along with a customer record for their
-name and purchase date.
-This application also allows the use of printing 
-the employee schedule and customer record.
-```
+
+> Pinhouse is an employee management application that was created for a coding competition in high school. Pinhouse stores employees personal information and their schedule, along with a customer record for their name and purchase date. This application also allows the use of printing the employee schedule and customer record.
 
 
 ### [OldNewRPG](https://github.com/aarongarnerm/OldNewRPG)
