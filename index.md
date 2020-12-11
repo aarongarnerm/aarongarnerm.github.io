@@ -27,6 +27,8 @@ GUI.
 Punghouse is an updated GUI version of the 
 project Pinhouse. I choose to update the GUI 
 to make it more lightweight and user friendly.
+There is no functionality on the applciation,
+this is strictly just a GUI.
 ```
 
 ### [Cash Widget](https://github.com/aarongarnerm/Cash-Widget)
