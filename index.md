@@ -4,12 +4,12 @@
 
 ### [Pinhouse](https://github.com/aarongarnerm/Pinhouse)
 
-> Pinhouse is an employee management application that was created for a coding competition in high school. Pinhouse stores employees personal information and their schedule, along with a customer record for their name and purchase date. This application also allows the use of printing the employee schedule and customer record.
+> Pinhouse is an employee management application that was created for a coding competition in high school. Pinhouse stores employees personal information and their schedule, along with a customer record for their name and purchase date. This application also allows the use of printing the employee schedule and customer record. ![Image of Pinhouse](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_31.png) ![Image of Pinhouse](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_32.png) ![Image of Pinhouse](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_33.png)
 
 
 ### [OldNewRPG](https://github.com/aarongarnerm/OldNewRPG)
 
-> OldNewRPG is the core functions for a classic-style rpg game. The core functions are versatile and can be used anywhere from console applications, to a full GUI.
+> OldNewRPG is the core functions for a classic-style rpg game. The core functions are versatile and can be used anywhere from console applications, to a full GUI. ![Image of OldNewRPG](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_36.png) ![Image of OldNewRPG](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_37.png)
 
 ### [Punghouse](https://github.com/aarongarnerm/PungHouse)
 
