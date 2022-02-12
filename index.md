@@ -13,7 +13,7 @@
 
 ### [Punghouse](https://github.com/aarongarnerm/PungHouse)
 
-> Punghouse is an updated GUI version of the project Pinhouse. I choose to update the GUI to make it more lightweight and user friendly. There is no functionality on the application, this is strictly just a GUI. ![Image of Punghouse](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_29.png) ![Image of Punghouse](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_30.png)
+> Punghouse is an updated GUI version of the project Pinhouse. I chose to update the GUI to make it more lightweight and user friendly. There is no functionality on the application, this is strictly just a GUI. ![Image of Punghouse](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_29.png) ![Image of Punghouse](https://raw.githubusercontent.com/aarongarnerm/Aaron-Garner/gh-pages/Screenshot_30.png)
 
 ### [Cash Widget](https://github.com/aarongarnerm/Cash-Widget)
 
